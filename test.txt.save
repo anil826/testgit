@@ -1,0 +1,12 @@
+
+hello this is test for git master barnch
+
+<<<<<<< HEAD
+some text file for third branch
+=======
+
+some text for local branch "b1"
+>>>>>>> b1
+
+hello some changes
+
