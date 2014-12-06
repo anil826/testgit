@@ -1,0 +1,3 @@
+hello my frnd this is new file for new branch local
+
+this is some text for third branch 
