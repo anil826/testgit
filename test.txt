@@ -2,3 +2,6 @@ hello this is test for git master barnch
 
 
 some text for local branch "b1"
+
+
+commit change using git amend
